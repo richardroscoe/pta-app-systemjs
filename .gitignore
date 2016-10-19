@@ -1,0 +1,6 @@
+# Here's what not to store back in the repo
+/node_modules
+/public/js/
+/public/systemjs.config.js
+/typings/
+*-
